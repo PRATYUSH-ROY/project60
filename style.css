@@ -1,0 +1,133 @@
+#navbarsExampleDefault {
+    background: -webkit-linear-gradient(#F5B7B7, #B7F5EE);
+
+}
+
+.nav-link {
+    font-size: 25px;
+    background: #F4A062;
+    transition: 0.5s;
+    border-width: 15px;
+    border-style: double;
+    border-color: black;
+    font-family: fantasy;
+
+}
+
+.nav-link:hover {
+    font-size: 25px;
+    background: skyblue;
+    transition: 0.5s;
+}
+
+.navbar-nav mr-auto {
+    padding: 50px;
+    border-bottom-width: 30px;
+    border-style: double;
+    border-color: black;
+    text-align: right;
+
+}
+
+
+
+
+
+
+
+
+
+#firp {
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background: -webkit-linear-gradient(#62F4EB, #F5B7B7);
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.hfhfh {
+    height: 50%;
+    width: 20%;
+    border-radius: 50%;
+    transition: 0.6s;
+}
+
+.hfhfh:hover {
+    height: 50%;
+    width: 35%;
+    border-radius: 70%;
+    transition: 0.6s;
+}
+
+#des {
+    font-family: cursive;
+    font-size: 25px;
+    text-align: center;
+    margin: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    transition: 0.6s;
+}
+
+#des:hover {
+    font-family: cursive;
+    font-size: 35px;
+    text-align: center;
+    margin: 30px;
+    margin-left: 20%;
+    margin-right: 20%;
+    transition: 0.6s;
+}
+
+#dfdf {
+    font-family: cursive;
+    font-size: 70px;
+    text-align: center;
+}
+
+div {
+    margin: 0px;
+}
+
+
+.image {
+    display: flex;
+
+    width: 100%;
+    text-align: center;
+    justify-items: center;
+}
+
+body {
+
+    text-align: center;
+    scroll-behavior: smooth;
+
+}
+
+.dd {
+    width: 80%;
+    text-align: center;
+    box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.9s;
+}
+
+.dd:hover {
+    width: 90%;
+    text-align: center;
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 20px 80px 0 rgba(0, 255, 255, 0.30);
+}
+
+img {
+    height: 500px;
+    width: 90%;
+    text-align: center;
+    transition: 0.9s;
+}
+
+img:hover {
+    height: 450px;
+    width: 100%;
+    text-align: center;
+}
